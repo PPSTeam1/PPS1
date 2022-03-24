@@ -1,3 +1,5 @@
+/*  Q.Find the Average of three numbers?  */
+
 #include <stdio.h>
 
 int avg(int a,int b, int c);
