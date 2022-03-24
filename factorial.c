@@ -1,3 +1,5 @@
+/* Q. FInd the Factorial of a Number ?*/
+
 #include <stdio.h>
 int main() {
     int num,fact=1;
