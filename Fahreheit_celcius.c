@@ -1,3 +1,6 @@
+/*Q.  Calculate Temperature in Fahrenheit scale by entering Temperature in Celcius scale .*/
+
+
 #include <stdio.h>
 
 int main() {
