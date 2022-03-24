@@ -1,25 +1,21 @@
 /*  Q.Find the Average of three numbers?  */
 
+
 #include <stdio.h>
+ int main() {
+     float a,b,c;
 
-int avg(int a,int b, int c);
+     printf("Enter a number : ");
+     scanf("%f",&a);
 
-int main() {
-    int a,b,c;
+     printf("Enter second number : ");
+     scanf("%f",&b);
 
-    printf("Enter a number : ");
-    scanf("%d",&a);
+     printf("Enter Third number : ");
+     scanf("%f",&c);
 
-    printf("Enter second number : ");
-    scanf("%d",&b);
+     float avg = (a+b+c)/3 ;
+     printf("The Average of %f , %f , %f is: %f",a,b,c,avg);
 
-    printf("Enter third number : ");
-    scanf("%d",&c);
-    
-    printf("Average is : %d",avg(a,b,c));
-
-    return 0;
-}
-int avg(int a,int b,int c){
-    return (a+b+c)/3;
-}
+     return 0;
+ }
