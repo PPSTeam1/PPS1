@@ -1,3 +1,5 @@
+/*Q.Find the Sum of two Numbers Entered by the User..*/
+
 #include<stdio.h>
 int main()
 {   int num1,num2;
