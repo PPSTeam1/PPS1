@@ -1,3 +1,5 @@
+/*Q.Finding the Greatest of three numbers entered by the user ??*/
+
 #include <stdio.h>
 
 
