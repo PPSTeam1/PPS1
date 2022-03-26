@@ -1,3 +1,5 @@
+/*Q.Calculation of Interest amount by entering loan ,no. of days ,rate of intrest ???*/
+
 #include<stdio.h>
 int main()
 {
