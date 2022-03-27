@@ -6,7 +6,7 @@ This is for projects and various C programs by The Team.
 This is an Official repo of Manav Rachna pps Team Narender .
 
 Only Team Member can edit the repo.
-Official Name: Narender Singh group
+Official Name: Narender Singh Kapany.
 
 TEAM MEMBERS :
 1.Sundaram Kumar Jha
