@@ -4,12 +4,12 @@
 #include <stdio.h>
 
 int main() {
-     float celcius;
+     float celsius;
 
      printf("Enter Temperature in Celsius Scale : ");
-     scanf("%f",&celcius);
+     scanf("%f",&celsius);
 
-     printf("Temperature In celcius scale is : %f",(9/5)*celcius + 32);
+     printf("Temperature In celcius scale is : %f",(9*celsius)/5 + 32));
 
      return 0;
 }
